@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FBTesting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9be811b180e7b183450e3fce7d9199be4ca76a1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5715746ca712db40822ab0eb64193a09a629d7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FBTesting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FBTesting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
